@@ -1,0 +1,16 @@
+project_id = "cdungzitxjtxvqpdsavs"
+
+[functions.get-visitor-info]
+verify_jwt = false
+
+[functions.secure-redirect]
+verify_jwt = false
+
+[functions.create-session]
+verify_jwt = false
+
+[functions.issue-token]
+verify_jwt = false
+
+[functions.admin-2fa]
+verify_jwt = false
