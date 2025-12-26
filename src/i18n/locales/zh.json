@@ -1,0 +1,324 @@
+{
+  "common": {
+    "home": "首页",
+    "admin": "管理",
+    "login": "登录",
+    "logout": "退出",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "search": "搜索",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "confirm": "确认",
+    "back": "返回",
+    "next": "下一步",
+    "close": "关闭",
+    "yes": "是",
+    "no": "否",
+    "active": "活跃",
+    "inactive": "停用",
+    "all": "全部"
+  },
+  "nav": {
+    "home": "首页",
+    "links": "Canva链接",
+    "features": "功能",
+    "faq": "常见问题",
+    "about": "关于我们",
+    "canvaPro": "Canva Pro",
+    "canvaEdu": "Canva 教育版",
+    "admin": "管理"
+  },
+  "about": {
+    "title": "关于 CanvaPro365Free",
+    "subtitle": "我们是一个免费分享 Canva Pro 和 Canva 教育版团队加入链接的平台，由社区建立，为社区服务。",
+    "whyChoose": "为什么选择我们？",
+    "features": {
+      "safe": "安全可靠",
+      "safeDesc": "所有链接都经过验证并防止垃圾邮件，以确保最佳体验。",
+      "fast": "快速便捷",
+      "fastDesc": "只需几个简单的步骤，您就可以立即加入 Canva Pro 团队。",
+      "community": "庞大社区",
+      "communityDesc": "每天有数千用户信任并使用我们的服务。",
+      "global": "多语言支持",
+      "globalDesc": "支持7种不同语言，服务全球用户。"
+    },
+    "stats": {
+      "users": "用户",
+      "links": "分享链接",
+      "languages": "支持语言",
+      "support": "支持"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "description": "我们相信每个人都应该有机会使用专业设计工具。CanvaPro365Free 的创建旨在帮助人们以安全、便捷的方式免费体验 Canva Pro。",
+      "point1": "透明、安全地分享社区链接",
+      "point2": "保护链接免受垃圾邮件侵害，最大化受益人数",
+      "point3": "以友好的界面提供最佳用户体验"
+    },
+    "howItWorks": {
+      "title": "使用方法",
+      "step1": "选择链接",
+      "step1Desc": "浏览可用链接并选择适合您需求的链接。",
+      "step2": "等待验证",
+      "step2Desc": "完成倒计时和验证以解锁链接。",
+      "step3": "加入团队",
+      "step3Desc": "点击加入，您将被重定向到 Canva 完成加入。"
+    },
+    "cta": {
+      "title": "感谢您的信任！",
+      "description": "我们始终努力为社区带来最佳体验。如果您觉得有帮助，请与朋友分享！"
+    }
+  },
+  "home": {
+    "title": "免费获取 Canva Pro 和教育版",
+    "subtitle": "免费加入 Canva Pro 和 Canva 教育版团队。点击下方链接加入。",
+    "availableLinks": "可用链接",
+    "noLinks": "目前没有可用链接。",
+    "checkBackLater": "请稍后再来查看新链接。",
+    "slotsLeft": "剩余 {{count}} 个名额",
+    "unlimited": "无限制",
+    "expired": "已过期",
+    "expiringSoon": "即将过期",
+    "joinNow": "立即加入",
+    "full": "已满"
+  },
+  "link": {
+    "title": "链接详情",
+    "backToHome": "返回首页",
+    "notFound": "链接不存在",
+    "notFoundDesc": "此链接可能已过期或已删除。请返回寻找其他链接。",
+    "fullSlots": "链接已满",
+    "fullSlotsDesc": "此链接已达到最大参与人数。请寻找其他链接。",
+    "findOther": "寻找其他链接",
+    "unlocked": "链接已解锁！",
+    "clickToJoin": "点击下方按钮加入 Canva 团队",
+    "instructions": "说明",
+    "instructionsDesc": "点击按钮后，您将被重定向到 Canva。请确保您已登录 Canva 账户。",
+    "joinNow": "立即加入",
+    "opening": "正在打开 Canva...",
+    "opened": "链接已打开 - 正在重定向...",
+    "openedInNewTab": "链接已在新标签页打开。您将被重定向到首页。",
+    "category": "分类"
+  },
+  "countdown": {
+    "pleaseWait": "请稍候...",
+    "ready": "准备就绪！",
+    "paused": "已暂停",
+    "returnToResume": "返回此页面继续倒计时",
+    "resetMessage": "倒计时已重置。返回重新开始。",
+    "canAccessNow": "您现在可以访问链接",
+    "secondsLeft": "还剩 {{count}} 秒解锁",
+    "security": "链接安全",
+    "securityDesc": "链接受保护以防止垃圾邮件并确保您获得最佳体验。",
+    "protected": "链接受保护",
+    "visitAd": "观看广告继续"
+  },
+  "captcha": {
+    "verify": "验证您不是机器人",
+    "enterResult": "输入结果...",
+    "enterCode": "输入验证码...",
+    "wrong": "错误！请重试。",
+    "generating": "正在生成新验证码...",
+    "countdownComplete": "倒计时完成！",
+    "completeVerification": "完成验证以解锁链接"
+  },
+  "footer": {
+    "disclaimer": "CanvaPro365Free 与 Canva Inc. 无关。我们只分享来自社区的团队加入链接。",
+    "description": "免费分享 Canva Pro 和 Canva Education 团队加入链接的平台。立即加入体验所有 Pro 功能！",
+    "madeWith": "用心制作",
+    "copyright": "© {{year}} CanvaPro365Free",
+    "quickLinks": "快速链接",
+    "support": "支持",
+    "contact": "联系我们",
+    "contactUs": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有问题或反馈？给我们发送消息！",
+    "formTitle": "发送消息",
+    "formDescription": "填写下面的表格，我们会尽快回复您。",
+    "name": "姓名",
+    "namePlaceholder": "输入您的姓名",
+    "email": "电子邮件",
+    "emailPlaceholder": "email@example.com",
+    "subject": "主题",
+    "subjectPlaceholder": "消息主题（可选）",
+    "message": "内容",
+    "messagePlaceholder": "输入您的消息...",
+    "send": "发送消息",
+    "sending": "发送中...",
+    "success": "成功！",
+    "successMessage": "您的消息已成功发送。",
+    "error": "错误",
+    "errorMessage": "无法发送消息。请重试。",
+    "fillRequired": "请填写所有必填字段。",
+    "invalidEmail": "无效的电子邮件地址。",
+    "thankYou": "谢谢！",
+    "thankYouMessage": "我们已收到您的消息，会尽快回复。",
+    "sendAnother": "发送另一条消息"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：{{date}}",
+    "intro": "我们致力于保护您的隐私。本政策解释了我们在您使用 CanvaPro365Free 时如何收集、使用和保护您的信息。",
+    "sections": {
+      "collection": {
+        "title": "信息收集",
+        "content": "我们仅收集运营服务所必需的技术信息，包括IP地址、浏览器信息和使用数据。我们不要求普通用户提供姓名、电子邮件或电话号码等个人信息。"
+      },
+      "usage": {
+        "title": "信息使用",
+        "content": "收集的信息仅用于：防止垃圾邮件和滥用、提高服务质量、分析流量和确保系统安全。"
+      },
+      "security": {
+        "title": "数据安全",
+        "content": "我们采用行业标准的安全措施来保护您的信息。但是，没有任何互联网传输方法是100%安全的。"
+      },
+      "rights": {
+        "title": "您的权利",
+        "content": "您有权要求访问、修改或删除与您相关的数据。请通过电子邮件联系我们行使这些权利。"
+      },
+      "contact": {
+        "title": "联系方式",
+        "content": "如果您对本隐私政策有任何疑问，请通过支持部分提供的电子邮件与我们联系。"
+      }
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：{{date}}",
+    "intro": "使用 CanvaPro365Free 即表示您同意遵守以下条款。请在使用服务前仔细阅读。",
+    "sections": {
+      "acceptance": {
+        "title": "接受条款",
+        "content": "通过访问和使用本网站，您确认已阅读、理解并同意遵守这些使用条款以及所有适用的法律和法规。"
+      },
+      "service": {
+        "title": "服务描述",
+        "content": "CanvaPro365Free 提供一个分享来自社区的 Canva Pro 和 Canva Education 团队加入链接的平台。我们与 Canva Inc. 没有关联，不保证链接的可用性。"
+      },
+      "prohibited": {
+        "title": "禁止行为",
+        "content": "禁止使用机器人或自动脚本、通过创建多个会话滥用系统、试图绕过保护措施或将服务用于商业目的。"
+      },
+      "disclaimer": {
+        "title": "免责声明",
+        "content": "服务按\"原样\"提供，不提供任何保证。我们对共享链接的可用性、准确性或质量不承担责任。"
+      },
+      "liability": {
+        "title": "责任限制",
+        "content": "在任何情况下，CanvaPro365Free 均不对因使用服务而产生的任何直接、间接、附带或后果性损害承担责任。"
+      },
+      "changes": {
+        "title": "条款变更",
+        "content": "我们保留随时修改这些条款的权利。在变更后继续使用服务即表示接受新条款。"
+      }
+    }
+  },
+  "admin": {
+    "panel": "管理面板",
+    "dashboard": "仪表板",
+    "links": "链接",
+    "categories": "分类",
+    "analytics": "统计",
+    "settings": "设置",
+    "manageLinks": "管理链接",
+    "manageCategories": "管理分类",
+    "addLink": "添加链接",
+    "addCategory": "添加分类",
+    "editLink": "编辑链接",
+    "editCategory": "编辑分类",
+    "deleteConfirm": "确定要删除吗？",
+    "linkTitle": "标题",
+    "linkDescription": "描述",
+    "linkUrl": "Canva 链接",
+    "shortCode": "短代码",
+    "generateCode": "生成代码",
+    "protectionType": "保护类型",
+    "countdownOnly": "仅倒计时",
+    "redirectOnly": "广告重定向",
+    "both": "两者",
+    "countdownSeconds": "倒计时（秒）",
+    "maxSlots": "最大名额",
+    "unlimitedSlots": "留空表示无限制",
+    "expiresAt": "过期时间",
+    "noExpiration": "留空表示不过期",
+    "clearExpiration": "清除过期时间",
+    "willExpireAt": "链接将于 {{date}} 过期",
+    "adUrl": "广告链接",
+    "activateLink": "激活链接",
+    "categoryName": "分类名称",
+    "categoryDescription": "描述",
+    "linkType": "链接类型",
+    "displayOrder": "显示顺序",
+    "showCategory": "显示分类",
+    "slots": "名额",
+    "status": "状态",
+    "actions": "操作",
+    "copyLink": "复制链接",
+    "openLink": "打开链接",
+    "linkCopied": "链接已复制！",
+    "noLinksYet": "暂无链接。",
+    "noCategoriesYet": "暂无分类。",
+    "creating": "创建中...",
+    "saving": "保存中...",
+    "linkList": "链接列表",
+    "categoryList": "分类列表",
+    "expiredStatus": "已过期",
+    "expiringSoonStatus": "即将过期",
+    "noLimit": "无限制"
+  },
+  "settings": {
+    "title": "设置",
+    "subtitle": "网站通用配置",
+    "general": "常规设置",
+    "generalDesc": "网站基本信息",
+    "siteTitle": "网站标题",
+    "siteDescription": "网站描述",
+    "defaultCountdown": "默认倒计时（秒）",
+    "contactEmail": "联系邮箱",
+    "defaultAdUrl": "默认广告链接",
+    "rateLimit": "访问限制",
+    "rateLimitDesc": "配置全局点击限制",
+    "rateLimitType": "限制类型",
+    "noLimit": "无限制",
+    "byIp": "按 IP",
+    "byFingerprint": "按设备（指纹）",
+    "maxClicksPerDay": "每日最大点击数",
+    "resetCountdown": "离开标签页时重置倒计时",
+    "resetCountdownDesc": "启用后，如果用户切换标签页/最小化浏览器，倒计时将重新开始（更强的防欺诈）",
+    "captchaEnabled": "倒计时后启用验证码",
+    "captchaEnabledDesc": "要求用户在倒计时完成后解决验证码以防止自动机器人",
+    "socialLinks": "社交链接",
+    "socialLinksDesc": "支持和社区链接",
+    "saveSettings": "保存设置",
+    "settingsSaved": "所有设置已保存",
+    "settingsError": "保存设置时出错"
+  },
+  "auth": {
+    "login": "登录",
+    "loginTitle": "管理员登录",
+    "loginSubtitle": "登录以访问管理面板",
+    "email": "邮箱",
+    "password": "密码",
+    "loggingIn": "登录中...",
+    "loginError": "登录失败",
+    "loginSuccess": "登录成功",
+    "logoutSuccess": "已退出登录",
+    "unauthorized": "未授权访问"
+  },
+  "language": {
+    "select": "语言",
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "zh": "中文",
+    "ko": "한국어"
+  }
+}

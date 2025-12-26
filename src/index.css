@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 271 81% 56%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 270 100% 98%;
+    --secondary-foreground: 271 81% 56%;
+
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+
+    --accent: 39 100% 57%;
+    --accent-foreground: 240 10% 3.9%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 271 81% 56%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 240 10% 3.9%;
+    --sidebar-primary: 271 81% 56%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 270 100% 98%;
+    --sidebar-accent-foreground: 271 81% 56%;
+    --sidebar-border: 240 5.9% 90%;
+    --sidebar-ring: 271 81% 56%;
+
+    /* Gradients */
+    --gradient-hero: linear-gradient(180deg, hsl(270 100% 98%) 0%, hsl(0 0% 100%) 100%);
+    
+    /* Shadows */
+    --shadow-card: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  }
+
+  .dark {
+    /* Canva-style dark mode - deep purple-tinted dark */
+    --background: 260 20% 9%;
+    --foreground: 0 0% 95%;
+
+    --card: 260 18% 12%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 260 18% 12%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 271 91% 65%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 260 20% 18%;
+    --secondary-foreground: 271 80% 80%;
+
+    --muted: 260 15% 16%;
+    --muted-foreground: 260 10% 60%;
+
+    --accent: 39 100% 60%;
+    --accent-foreground: 260 20% 9%;
+
+    --destructive: 0 72% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 260 15% 18%;
+    --input: 260 15% 18%;
+    --ring: 271 91% 65%;
+
+    --sidebar-background: 260 18% 10%;
+    --sidebar-foreground: 0 0% 95%;
+    --sidebar-primary: 271 91% 65%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 260 20% 18%;
+    --sidebar-accent-foreground: 271 80% 80%;
+    --sidebar-border: 260 15% 18%;
+    --sidebar-ring: 271 91% 65%;
+
+    --gradient-hero: linear-gradient(180deg, hsl(260 25% 12%) 0%, hsl(260 20% 9%) 100%);
+    --shadow-card: 0 2px 8px 0 rgb(0 0 0 / 0.4), 0 0 0 1px hsl(260 15% 18%);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  /* Smooth theme transition */
+  html {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  html.theme-transition,
+  html.theme-transition *,
+  html.theme-transition *::before,
+  html.theme-transition *::after {
+    transition: background-color 0.3s ease, 
+                border-color 0.3s ease, 
+                color 0.3s ease,
+                fill 0.3s ease,
+                stroke 0.3s ease,
+                box-shadow 0.3s ease !important;
+    transition-delay: 0s !important;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .gradient-primary {
+    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(290 70% 55%) 100%);
+  }
+
+  .gradient-canva {
+    background: linear-gradient(135deg, hsl(271 81% 56%) 0%, hsl(175 72% 46%) 50%, hsl(39 100% 57%) 100%);
+  }
+
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+
+  .text-gradient {
+    background: linear-gradient(135deg, hsl(271 91% 65%) 0%, hsl(175 72% 50%) 50%, hsl(39 100% 60%) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Disable text selection for protected content */
+  .no-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+
+  /* Animation utilities */
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.5s ease-out forwards;
+    opacity: 0;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}

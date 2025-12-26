@@ -1,0 +1,356 @@
+{
+  "common": {
+    "home": "ホーム",
+    "admin": "管理",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "create": "作成",
+    "search": "検索",
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "confirm": "確認",
+    "back": "戻る",
+    "next": "次へ",
+    "close": "閉じる",
+    "yes": "はい",
+    "no": "いいえ",
+    "active": "有効",
+    "inactive": "無効",
+    "all": "すべて",
+    "refresh": "更新"
+  },
+  "nav": {
+    "home": "ホーム",
+    "links": "Canvaリンク",
+    "features": "機能",
+    "faq": "よくある質問",
+    "about": "概要",
+    "canvaPro": "Canva Pro",
+    "canvaEdu": "Canva 教育版",
+    "admin": "管理"
+  },
+  "about": {
+    "title": "CanvaPro365Freeについて",
+    "subtitle": "私たちは、コミュニティによって構築され、コミュニティのために運営される、無料のCanva Proおよび Canva 教育版チーム参加リンク共有プラットフォームです。",
+    "whyChoose": "なぜ私たちを選ぶのか？",
+    "features": {
+      "safe": "安全・安心",
+      "safeDesc": "すべてのリンクは検証され、スパムから保護されて最高の体験を保証します。",
+      "fast": "高速",
+      "fastDesc": "いくつかの簡単なステップで、即座にCanva Proチームに参加できます。",
+      "community": "大規模コミュニティ",
+      "communityDesc": "毎日数千人のユーザーが私たちのサービスを信頼して利用しています。",
+      "global": "多言語対応",
+      "globalDesc": "世界中のユーザーにサービスを提供するため、7つの言語をサポートしています。"
+    },
+    "stats": {
+      "users": "ユーザー",
+      "links": "共有リンク",
+      "languages": "対応言語",
+      "support": "サポート"
+    },
+    "mission": {
+      "title": "私たちの使命",
+      "description": "私たちは、誰もがプロフェッショナルなデザインツールにアクセスする権利があると信じています。CanvaPro365Freeは、安全で簡単な方法で無料でCanva Proを体験できるよう支援するために作られました。",
+      "point1": "コミュニティからのリンクを透明かつ安全に共有",
+      "point2": "スパムからリンクを保護し、受益者数を最大化",
+      "point3": "フレンドリーなインターフェースで最高のユーザー体験を提供"
+    },
+    "howItWorks": {
+      "title": "使い方",
+      "step1": "リンクを選択",
+      "step1Desc": "利用可能なリンクを閲覧し、ニーズに合ったものを選択してください。",
+      "step2": "待機と認証",
+      "step2Desc": "カウントダウンと認証を完了してリンクのロックを解除します。",
+      "step3": "チームに参加",
+      "step3Desc": "参加をクリックすると、Canvaにリダイレクトされて完了します。"
+    },
+    "cta": {
+      "title": "ご信頼いただきありがとうございます！",
+      "description": "私たちは常にコミュニティに最高の体験を提供するよう努力しています。お役に立てた場合は、友達と共有してください！"
+    }
+  },
+  "home": {
+    "title": "Canva Pro と教育版を無料で入手",
+    "subtitle": "Canva Pro と Canva 教育版チームに無料で参加できます。下のリンクをクリックして参加してください。",
+    "availableLinks": "利用可能なリンク",
+    "noLinks": "現在利用可能なリンクはありません。",
+    "checkBackLater": "後で新しいリンクを確認してください。",
+    "slotsLeft": "枠残り",
+    "unlimited": "無制限",
+    "expired": "期限切れ",
+    "expiringSoon": "まもなく期限切れ",
+    "joinNow": "今すぐ参加",
+    "full": "満席",
+    "features": {
+      "free": "無料",
+      "instantAccess": "即時アクセス",
+      "fullFeatures": "すべてのPro機能"
+    },
+    "whyCanvaPro365Free": "なぜCanvaPro365Freeなのか？",
+    "secure": "安全",
+    "secureDesc": "リンクはスパムから保護され、実際のユーザーに枠を確保します。",
+    "fast": "高速",
+    "fastDesc": "数秒待つだけで、すぐに Canva Pro チームに参加できます。",
+    "community": "コミュニティ",
+    "communityDesc": "すでに数千人が参加し、無料で Canva Pro を体験しています。",
+    "readyToExplore": "探検する準備はできましたか？",
+    "readyDesc": "上のリンクを選択して、完全無料で Canva Pro の使用を開始してください。",
+    "exploreNow": "今すぐ探索"
+  },
+  "link": {
+    "title": "リンク詳細",
+    "backToHome": "ホームに戻る",
+    "back": "戻る",
+    "notFound": "リンクが見つかりません",
+    "notFoundDesc": "このリンクは期限切れまたは削除された可能性があります。別のリンクをお探しください。",
+    "fullSlots": "リンクの枠が満席です",
+    "fullSlotsDesc": "このリンクは最大参加者数に達しました。別のリンクをお探しください。",
+    "findOther": "別のリンクを探す",
+    "unlocked": "リンクがロック解除されました！",
+    "unlockedDesc": "下のボタンをクリックして Canva チームに参加してください",
+    "clickToJoin": "下のボタンをクリックして Canva チームに参加してください",
+    "instructions": "手順",
+    "instructionsDesc": "ボタンをクリックすると、Canva にリダイレクトされます。事前に Canva アカウントにログインしていることを確認してください。",
+    "joinNow": "今すぐ参加",
+    "opening": "Canva を開いています...",
+    "opened": "リンクが開きました - リダイレクト中...",
+    "openedInNewTab": "新しいタブでリンクが開きました！",
+    "redirecting": "ホームページにリダイレクトされます。",
+    "category": "カテゴリ",
+    "slotsRemaining": "残り",
+    "slot": "枠",
+    "slots": "枠",
+    "waitSeconds": "待機",
+    "noLimit": "無制限",
+    "joinTeam": "チームに参加",
+    "free": "無料",
+    "countdownComplete": "カウントダウン完了！",
+    "completeVerification": "リンクのロックを解除するには認証を完了してください"
+  },
+  "countdown": {
+    "pleaseWait": "お待ちください...",
+    "ready": "準備完了！",
+    "paused": "一時停止中",
+    "returnToResume": "カウントダウンを再開するにはこのページに戻ってください",
+    "resetMessage": "カウントダウンがリセットされました。戻って最初からやり直してください。",
+    "canAccessNow": "リンクにアクセスできるようになりました",
+    "secondsLeft": "秒でロック解除",
+    "security": "リンクセキュリティ",
+    "securityDesc": "リンクはスパムを防止し、最高の体験を保証するために保護されています。",
+    "protected": "リンクは保護されています",
+    "visitAd": "続行するには広告を見る"
+  },
+  "captcha": {
+    "verify": "ロボットでないことを確認してください",
+    "enterResult": "結果を入力...",
+    "enterCode": "コードを入力...",
+    "wrong": "間違っています！もう一度お試しください。",
+    "generating": "新しいコードを生成中...",
+    "countdownComplete": "カウントダウン完了！",
+    "completeVerification": "リンクのロックを解除するには認証を完了してください",
+    "verified": "認証成功！"
+  },
+  "footer": {
+    "disclaimer": "CanvaPro365FreeはCanva Inc.と提携していません。コミュニティからのチーム参加リンクを共有しているだけです。",
+    "description": "Canva ProとCanva Educationチーム参加リンクを無料で共有するプラットフォームです。今すぐ参加してすべてのPro機能を体験しましょう！",
+    "madeWith": "作成者",
+    "copyright": "© {{year}} CanvaPro365Free",
+    "quickLinks": "クイックリンク",
+    "support": "サポート",
+    "contact": "連絡先",
+    "contactUs": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "質問やフィードバックがありますか？メッセージをお送りください！",
+    "formTitle": "メッセージを送信",
+    "formDescription": "以下のフォームにご記入ください。できるだけ早くお返事いたします。",
+    "name": "お名前",
+    "namePlaceholder": "お名前を入力してください",
+    "email": "メールアドレス",
+    "emailPlaceholder": "email@example.com",
+    "subject": "件名",
+    "subjectPlaceholder": "メッセージの件名（任意）",
+    "message": "内容",
+    "messagePlaceholder": "メッセージを入力してください...",
+    "send": "メッセージを送信",
+    "sending": "送信中...",
+    "success": "成功！",
+    "successMessage": "メッセージが正常に送信されました。",
+    "error": "エラー",
+    "errorMessage": "メッセージを送信できませんでした。もう一度お試しください。",
+    "fillRequired": "必須項目をすべて入力してください。",
+    "invalidEmail": "無効なメールアドレスです。",
+    "thankYou": "ありがとうございます！",
+    "thankYouMessage": "メッセージを受け取りました。できるだけ早くお返事いたします。",
+    "sendAnother": "別のメッセージを送信"
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "最終更新：{{date}}",
+    "intro": "私たちはあなたのプライバシーを保護することに専念しています。このポリシーでは、CanvaPro365Freeを使用する際に情報を収集、使用、保護する方法を説明します。",
+    "sections": {
+      "collection": {
+        "title": "情報の収集",
+        "content": "サービスの運営に必要な技術情報のみを収集します。これにはIPアドレス、ブラウザ情報、使用データが含まれます。一般ユーザーに名前、メールアドレス、電話番号などの個人情報を要求することはありません。"
+      },
+      "usage": {
+        "title": "情報の使用",
+        "content": "収集された情報は、スパムと悪用の防止、サービス品質の向上、トラフィックの分析、システムセキュリティの確保にのみ使用されます。"
+      },
+      "security": {
+        "title": "データセキュリティ",
+        "content": "情報を保護するために業界標準のセキュリティ対策を適用しています。ただし、インターネット経由の送信方法で100%安全なものはありません。"
+      },
+      "rights": {
+        "title": "あなたの権利",
+        "content": "あなたに関連するデータへのアクセス、修正、削除を要求する権利があります。これらの権利を行使するには、メールでお問い合わせください。"
+      },
+      "contact": {
+        "title": "連絡先",
+        "content": "このプライバシーポリシーに関するご質問がある場合は、サポートセクションに記載されているメールアドレスまでお問い合わせください。"
+      }
+    }
+  },
+  "terms": {
+    "title": "利用規約",
+    "lastUpdated": "最終更新：{{date}}",
+    "intro": "CanvaPro365Freeを使用することにより、以下の規約に同意することになります。サービスを使用する前に注意深くお読みください。",
+    "sections": {
+      "acceptance": {
+        "title": "規約の同意",
+        "content": "このウェブサイトにアクセスして使用することにより、この利用規約とすべての適用される法律と規制を読み、理解し、遵守することに同意することを確認します。"
+      },
+      "service": {
+        "title": "サービスの説明",
+        "content": "CanvaPro365Freeは、コミュニティからのCanva ProおよびCanva Educationチーム参加リンクを共有するプラットフォームを提供します。私たちはCanva Inc.と提携しておらず、リンクの可用性を保証しません。"
+      },
+      "prohibited": {
+        "title": "禁止事項",
+        "content": "ボットや自動スクリプトの使用、複数のセッションを作成してシステムを悪用すること、保護措置を回避しようとすること、または商業目的でサービスを使用することは禁止されています。"
+      },
+      "disclaimer": {
+        "title": "免責事項",
+        "content": "サービスは、いかなる保証もなく「現状のまま」提供されます。共有リンクの可用性、正確性、品質については責任を負いません。"
+      },
+      "liability": {
+        "title": "責任の制限",
+        "content": "いかなる場合も、CanvaPro365Freeはサービスの使用から生じる直接的、間接的、付随的、または結果的な損害について責任を負いません。"
+      },
+      "changes": {
+        "title": "規約の変更",
+        "content": "私たちはいつでもこれらの規約を変更する権利を留保します。変更後もサービスを継続使用することは、新しい規約に同意したことを意味します。"
+      }
+    }
+  },
+  "admin": {
+    "panel": "管理パネル",
+    "dashboard": "ダッシュボード",
+    "links": "リンク",
+    "categories": "カテゴリ",
+    "analytics": "分析",
+    "settings": "設定",
+    "manageLinks": "リンク管理",
+    "manageCategories": "カテゴリ管理",
+    "addLink": "リンク追加",
+    "addCategory": "カテゴリ追加",
+    "editLink": "リンク編集",
+    "editCategory": "カテゴリ編集",
+    "deleteConfirm": "本当に削除しますか？",
+    "linkTitle": "タイトル",
+    "linkDescription": "説明",
+    "linkUrl": "Canva URL",
+    "shortCode": "ショートコード",
+    "generateCode": "コード生成",
+    "protectionType": "保護タイプ",
+    "countdownOnly": "カウントダウンのみ",
+    "redirectOnly": "広告リダイレクト",
+    "both": "両方",
+    "countdownSeconds": "カウントダウン（秒）",
+    "maxSlots": "最大枠数",
+    "unlimitedSlots": "無制限の場合は空欄",
+    "expiresAt": "有効期限",
+    "noExpiration": "期限なしの場合は空欄",
+    "clearExpiration": "有効期限をクリア",
+    "willExpireAt": "リンクは {{date}} に期限切れになります",
+    "adUrl": "広告 URL",
+    "activateLink": "リンクを有効化",
+    "categoryName": "カテゴリ名",
+    "categoryDescription": "説明",
+    "linkType": "リンクタイプ",
+    "displayOrder": "表示順",
+    "showCategory": "カテゴリを表示",
+    "slots": "枠",
+    "status": "ステータス",
+    "actions": "アクション",
+    "copyLink": "リンクをコピー",
+    "openLink": "リンクを開く",
+    "linkCopied": "リンクがコピーされました！",
+    "noLinksYet": "まだリンクがありません。",
+    "noCategoriesYet": "まだカテゴリがありません。",
+    "creating": "作成中...",
+    "saving": "保存中...",
+    "linkList": "リンクリスト",
+    "categoryList": "カテゴリリスト",
+    "expiredStatus": "期限切れ",
+    "expiringSoonStatus": "まもなく期限切れ",
+    "noLimit": "制限なし"
+  },
+  "settings": {
+    "title": "設定",
+    "subtitle": "ウェブサイトの一般設定",
+    "general": "一般設定",
+    "generalDesc": "ウェブサイトの基本情報",
+    "siteTitle": "サイトタイトル",
+    "siteDescription": "サイト説明",
+    "defaultCountdown": "デフォルトカウントダウン（秒）",
+    "contactEmail": "連絡先メール",
+    "defaultAdUrl": "デフォルト広告 URL",
+    "rateLimit": "アクセス制限",
+    "rateLimitDesc": "グローバルクリック制限を設定",
+    "rateLimitType": "制限タイプ",
+    "noLimit": "制限なし",
+    "byIp": "IP別",
+    "byFingerprint": "デバイス別（フィンガープリント）",
+    "maxClicksPerDay": "1日あたりの最大クリック数",
+    "resetCountdown": "タブを離れるとカウントダウンをリセット",
+    "resetCountdownDesc": "ユーザーがタブを切り替えたりブラウザを最小化したりした場合、カウントダウンを最初からリセット",
+    "captchaEnabled": "カウントダウン後にCAPTCHAを有効化",
+    "captchaEnabledDesc": "カウントダウン完了後にユーザーにCAPTCHAを解決させる",
+    "socialLinks": "ソーシャルリンク",
+    "socialLinksDesc": "サポートとコミュニティリンク",
+    "saveSettings": "設定を保存",
+    "settingsSaved": "すべての設定が保存されました",
+    "settingsError": "設定の保存中にエラー"
+  },
+  "auth": {
+    "login": "ログイン",
+    "loginTitle": "管理者ログイン",
+    "loginSubtitle": "管理パネルにアクセスするにはログインしてください",
+    "email": "メール",
+    "password": "パスワード",
+    "loggingIn": "ログイン中...",
+    "loginError": "ログイン失敗",
+    "loginSuccess": "ログイン成功",
+    "logoutSuccess": "正常にログアウトしました",
+    "unauthorized": "未承認のアクセス"
+  },
+  "language": {
+    "select": "言語",
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "zh": "中文",
+    "ko": "한국어",
+    "ja": "日本語",
+    "th": "ไทย",
+    "id": "Bahasa Indonesia"
+  }
+}

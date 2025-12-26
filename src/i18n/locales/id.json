@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "links": "Link Canva",
+    "features": "Fitur",
+    "faq": "FAQ",
+    "about": "Tentang",
+    "canvaPro": "Canva Pro",
+    "canvaEdu": "Canva Edu",
+    "admin": "Admin"
+  },
+  "about": {
+    "title": "Tentang CanvaPro365Free",
+    "subtitle": "Kami adalah platform untuk berbagi tautan bergabung tim Canva Pro dan Canva Education secara gratis, dibangun oleh komunitas dan untuk komunitas.",
+    "whyChoose": "Mengapa Memilih Kami?",
+    "features": {
+      "safe": "Aman & Terjamin",
+      "safeDesc": "Semua tautan diverifikasi dan dilindungi dari spam untuk memastikan pengalaman terbaik.",
+      "fast": "Cepat",
+      "fastDesc": "Hanya beberapa langkah sederhana dan Anda dapat bergabung dengan tim Canva Pro secara instan.",
+      "community": "Komunitas Besar",
+      "communityDesc": "Ribuan pengguna mempercayai dan menggunakan layanan kami setiap hari.",
+      "global": "Multi-bahasa",
+      "globalDesc": "Mendukung 7 bahasa berbeda untuk melayani pengguna di seluruh dunia."
+    },
+    "stats": {
+      "users": "Pengguna",
+      "links": "Tautan Dibagikan",
+      "languages": "Bahasa Didukung",
+      "support": "Dukungan"
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Kami percaya semua orang berhak mendapatkan akses ke alat desain profesional. CanvaPro365Free dibuat untuk membantu orang merasakan Canva Pro secara gratis dengan cara yang aman dan mudah.",
+      "point1": "Berbagi tautan dari komunitas secara transparan dan aman",
+      "point2": "Melindungi tautan dari spam untuk memaksimalkan jumlah penerima manfaat",
+      "point3": "Memberikan pengalaman pengguna terbaik dengan antarmuka yang ramah"
+    },
+    "howItWorks": {
+      "title": "Cara Kerja",
+      "step1": "Pilih Tautan",
+      "step1Desc": "Jelajahi tautan yang tersedia dan pilih yang sesuai dengan kebutuhan Anda.",
+      "step2": "Tunggu & Verifikasi",
+      "step2Desc": "Selesaikan hitung mundur dan verifikasi untuk membuka tautan.",
+      "step3": "Bergabung Tim",
+      "step3Desc": "Klik bergabung dan Anda akan diarahkan ke Canva untuk menyelesaikan."
+    },
+    "cta": {
+      "title": "Terima Kasih Atas Kepercayaan Anda!",
+      "description": "Kami selalu berusaha memberikan pengalaman terbaik untuk komunitas. Jika Anda merasa terbantu, silakan bagikan kepada teman-teman Anda!"
+    }
+  },
+  "hero": {
+    "title": "Dapatkan Canva Pro Gratis",
+    "subtitle": "Kami berbagi tautan akses Canva Pro dan Canva Edu gratis. Terbatas, buruan!"
+  },
+  "links": {
+    "title": "Tautan Tersedia",
+    "slots": "Slot",
+    "join": "Gabung Sekarang",
+    "expired": "Kedaluwarsa",
+    "full": "Penuh",
+    "inactive": "Tidak Aktif"
+  },
+  "categories": {
+    "canvaPro": "Canva Pro",
+    "canvaEdu": "Canva Edu"
+  },
+  "countdown": {
+    "wait": "Mohon tunggu",
+    "seconds": "detik",
+    "processing": "Memproses..."
+  },
+  "captcha": {
+    "title": "Verifikasi bahwa Anda manusia",
+    "placeholder": "Masukkan jawaban",
+    "submit": "Verifikasi",
+    "error": "Salah. Silakan coba lagi.",
+    "success": "Verifikasi berhasil!"
+  },
+  "footer": {
+    "disclaimer": "CanvaPro365Free tidak berafiliasi dengan Canva Inc. Kami hanya membagikan tautan bergabung tim dari komunitas.",
+    "description": "Platform untuk berbagi tautan bergabung tim Canva Pro dan Canva Education gratis. Bergabung sekarang untuk merasakan semua fitur Pro!",
+    "madeWith": "Dibuat dengan",
+    "copyright": "© {{year}} CanvaPro365Free",
+    "quickLinks": "Tautan Cepat",
+    "support": "Dukungan",
+    "contact": "Kontak",
+    "contactUs": "Hubungi Kami",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Punya pertanyaan atau umpan balik? Kirim pesan kepada kami!",
+    "formTitle": "Kirim Pesan",
+    "formDescription": "Isi formulir di bawah ini dan kami akan menghubungi Anda sesegera mungkin.",
+    "name": "Nama Lengkap",
+    "namePlaceholder": "Masukkan nama lengkap Anda",
+    "email": "Email",
+    "emailPlaceholder": "email@example.com",
+    "subject": "Subjek",
+    "subjectPlaceholder": "Subjek pesan (opsional)",
+    "message": "Pesan",
+    "messagePlaceholder": "Masukkan pesan Anda...",
+    "send": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "success": "Berhasil!",
+    "successMessage": "Pesan Anda telah berhasil dikirim.",
+    "error": "Kesalahan",
+    "errorMessage": "Tidak dapat mengirim pesan. Silakan coba lagi.",
+    "fillRequired": "Harap isi semua bidang yang diperlukan.",
+    "invalidEmail": "Alamat email tidak valid.",
+    "thankYou": "Terima Kasih!",
+    "thankYouMessage": "Kami telah menerima pesan Anda dan akan segera merespons.",
+    "sendAnother": "Kirim Pesan Lain"
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir diperbarui: {{date}}",
+    "intro": "Kami berkomitmen untuk melindungi privasi Anda. Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat menggunakan CanvaPro365Free.",
+    "sections": {
+      "collection": {
+        "title": "Pengumpulan Informasi",
+        "content": "Kami hanya mengumpulkan informasi teknis yang diperlukan untuk mengoperasikan layanan, termasuk alamat IP, informasi browser, dan data penggunaan. Kami tidak meminta informasi pribadi seperti nama, email, atau nomor telepon dari pengguna biasa."
+      },
+      "usage": {
+        "title": "Penggunaan Informasi",
+        "content": "Informasi yang dikumpulkan hanya digunakan untuk: mencegah spam dan penyalahgunaan, meningkatkan kualitas layanan, menganalisis lalu lintas, dan memastikan keamanan sistem."
+      },
+      "security": {
+        "title": "Keamanan Data",
+        "content": "Kami menerapkan langkah-langkah keamanan standar industri untuk melindungi informasi Anda. Namun, tidak ada metode transmisi melalui internet yang 100% aman."
+      },
+      "rights": {
+        "title": "Hak Anda",
+        "content": "Anda berhak meminta akses, modifikasi, atau penghapusan data yang terkait dengan Anda. Hubungi kami melalui email untuk menggunakan hak-hak ini."
+      },
+      "contact": {
+        "title": "Kontak",
+        "content": "Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami melalui email yang tersedia di bagian dukungan."
+      }
+    }
+  },
+  "terms": {
+    "title": "Ketentuan Layanan",
+    "lastUpdated": "Terakhir diperbarui: {{date}}",
+    "intro": "Dengan menggunakan CanvaPro365Free, Anda setuju untuk mematuhi ketentuan berikut. Harap baca dengan cermat sebelum menggunakan layanan.",
+    "sections": {
+      "acceptance": {
+        "title": "Penerimaan Ketentuan",
+        "content": "Dengan mengakses dan menggunakan situs web ini, Anda mengonfirmasi bahwa Anda telah membaca, memahami, dan setuju untuk mematuhi ketentuan penggunaan ini dan semua hukum dan peraturan yang berlaku."
+      },
+      "service": {
+        "title": "Deskripsi Layanan",
+        "content": "CanvaPro365Free menyediakan platform untuk berbagi tautan bergabung tim Canva Pro dan Canva Education dari komunitas. Kami tidak berafiliasi dengan Canva Inc. dan tidak menjamin ketersediaan tautan."
+      },
+      "prohibited": {
+        "title": "Aktivitas yang Dilarang",
+        "content": "Dilarang menggunakan bot atau skrip otomatis, menyalahgunakan sistem dengan membuat banyak sesi, mencoba melewati langkah-langkah perlindungan, atau menggunakan layanan untuk tujuan komersial."
+      },
+      "disclaimer": {
+        "title": "Penafian",
+        "content": "Layanan disediakan \"sebagaimana adanya\" tanpa jaminan apa pun. Kami tidak bertanggung jawab atas ketersediaan, akurasi, atau kualitas tautan yang dibagikan."
+      },
+      "liability": {
+        "title": "Batasan Tanggung Jawab",
+        "content": "Dalam keadaan apa pun, CanvaPro365Free tidak bertanggung jawab atas kerusakan langsung, tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan layanan."
+      },
+      "changes": {
+        "title": "Perubahan Ketentuan",
+        "content": "Kami berhak mengubah ketentuan ini kapan saja. Penggunaan layanan secara berkelanjutan setelah perubahan dibuat merupakan penerimaan ketentuan baru."
+      }
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Halaman tidak ditemukan",
+    "backHome": "Kembali ke Beranda"
+  }
+}
